@@ -54,6 +54,7 @@ Python, Blockchain , Chatbot Integration, UI/UX Design
 ## 🌐 Let's Connect!
 
 - 📫 Email: [sourabhnaidu174@gmail.com]
+- 📄 [Download My Resume (PDF)]([https://drive.google.com/uc?export=download&id=FILE_ID](https://drive.google.com/file/d/1YGNa7QrFO48TSWICDT1xfhjQVZtNiwVI/view?usp=sharing)
 
 
 ---
