@@ -41,7 +41,7 @@ API Integration, WebSockets, OAuth, Stripe, Datadog, AWS (EC2, S3), Git, MVC, SD
 Jest, Postman, Real-time Logs (Datadog), AWS Monitoring
 
 **Others:**  
-Python, Blockchain basics, Chatbot Integration, UI/UX Design
+Python, Blockchain , Chatbot Integration, UI/UX Design
 
 ---
 
