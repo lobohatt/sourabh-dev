@@ -6,7 +6,7 @@ Hey there! I'm a results-driven Full Stack Software Engineer with hands-on exper
 
 ## 🚀 Professional Experience
 
-### 💼 Software Engineer @ Tipplr (06/2020 - 03/2021)
+### 💼 Software Engineer @ Tipplr 
 - Optimized a Real-Time Admin Panel for ONDC, improving transaction speed by **30%** and enhancing seller-buyer engagement.
 - Automated financial reporting using cron jobs, reducing manual efforts by **70%** for 500+ merchants.
 - Integrated React Native apps with **99.9% uptime** across platforms.
@@ -15,7 +15,7 @@ Hey there! I'm a results-driven Full Stack Software Engineer with hands-on exper
 - Implemented Jest unit testing, increasing test coverage by **40%**.
 - Migrated backend services to **AWS**, reducing server downtime by **20%**.
 
-### 💼 Software Engineer @ Developscripts LLC (10/2024 - 01/2025)
+### 💼 Software Engineer @ Developscripts LLC 
 - Translated Adobe XD designs into responsive **React.js** interfaces.
 - Used **Redux & Context API** for efficient state management.
 - Integrated **OAuth & JWT** authentication, reducing unauthorized access by **90%**.
